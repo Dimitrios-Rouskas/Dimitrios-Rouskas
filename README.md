@@ -1,16 +1,33 @@
 ## Hi there I'm Dimitris Rouskas👋
 
-<!--
-**Dimitrios-Rouskas/Dimitrios-Rouskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Chemical Engineering graduate** from **Aristotle University of Thessaloniki** with a strong passion for **mathematical modeling and simulation**.
 
-Here are some ideas to get you started:
+I am particularly interested in **fluid mechanics** and **energy systems**, and I enjoy the entire process of **building models to solve real, practical engineering problems**. Modeling, for me, is not just a tool but a way of thinking — translating physical phenomena into equations that can be analyzed, simulated, and optimized.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+
+- **Programming:** Python, MATLAB, Fortran  
+- **Modeling & Optimization:** GAMS  
+- **Process Simulation:** Aspen Plus, Aspen HYSYS, UniSim  
+- **Core Interests:**  
+  - Mathematical & numerical modeling  
+  - Fluid mechanics  
+  - Energy systems  
+  - Process analysis and simulation  
+
+---
+
+## 🎯 Interests
+
+- Developing **physics-based and data-driven models**
+- Solving **engineering problems through simulation**
+- Bridging **theory and real-world applications**
+- Continuous learning in computational and energy-related fields
+
+---
+
+## 📫 Contact
+
+📧 **Email:** dimitrisrsk@gmail.com
