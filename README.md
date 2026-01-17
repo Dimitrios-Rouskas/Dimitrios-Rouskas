@@ -1,4 +1,4 @@
-## Hi there I'm Dimitris Rouskas👋
+## Hi there I'm Dimitris Rouskas
 
 I am a **Chemical Engineering graduate** from **Aristotle University of Thessaloniki** with a strong passion for **mathematical modeling and simulation**.
 
