@@ -10,7 +10,7 @@ I am particularly interested in **fluid mechanics** and **energy systems**, and 
 
 - **Programming:** Python, MATLAB, Fortran  
 - **Modeling & Optimization:** GAMS  
-- **Process Simulation:** Aspen Plus, UniSim  
+- **Process Simulation:** UniSim  
 - **Core Interests:**  
   - Mathematical & numerical modeling  
   - Fluid mechanics  
