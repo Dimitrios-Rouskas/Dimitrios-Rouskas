@@ -2,7 +2,7 @@
 
 I am a **Chemical Engineering graduate** from **Aristotle University of Thessaloniki** with a strong passion for **mathematical modeling and simulation**.
 
-I am particularly interested in **fluid mechanics** and **energy systems**, and I enjoy the entire process of **building models to solve real, practical engineering problems**. Modeling, for me, is not just a tool but a way of thinking — translating physical phenomena into equations that can be analyzed, simulated, and optimized.
+I am particularly interested in **fluid mechanics** and **energy systems**, and I enjoy the entire process of **building models to solve real practical engineering problems**. Modeling, for me, is not just a tool but a way of thinking — translating physical phenomena into equations that can be analyzed, simulated, and optimized.
 
 ---
 
