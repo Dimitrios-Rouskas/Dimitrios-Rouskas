@@ -13,8 +13,7 @@ I am particularly interested in **fluid mechanics** and **energy systems**, and 
 - **Process Simulation:** UniSim  
 - **Core Interests:**  
   - Mathematical & numerical modeling  
-  - Fluid mechanics  
-  - Energy systems  
+  - Biology systems    
   - Process analysis and simulation  
 
 ---
@@ -24,7 +23,7 @@ I am particularly interested in **fluid mechanics** and **energy systems**, and 
 - Developing **physics-based and data-driven models**
 - Solving **engineering problems through simulation**
 - Bridging **theory and real-world applications**
-- Continuous learning in computational and energy-related fields
+- Continuous learning in computational and biology-related fields
 
 ---
 
